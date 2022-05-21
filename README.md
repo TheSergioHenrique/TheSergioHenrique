@@ -2,7 +2,7 @@
 ###💻My name is Sérgio Henrique and I'm a Computer Engineering Student. Nice to meet you, and take your time here!🦾
 
 I'm currently studying:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg"width="40" height="40" />
 <!--
 **TheSergioHenrique/TheSergioHenrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
