@@ -2,7 +2,7 @@
 
 💻My name is Sérgio Henrique and I'm a Computer Engineering Student. Nice to meet you, and take your time here!🦾
 
-I'm currently studying:
+I'm currently studying those languages:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="30" height="30" />
 
 If you want to contact me, feel free to do so!
