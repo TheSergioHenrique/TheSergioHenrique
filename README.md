@@ -3,7 +3,7 @@
 💻My name is Sérgio Henrique and I'm a Computer Engineering Student. Nice to meet you, and take your time here!🦾
 
 I'm currently studying those technologies:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/java-original.svg" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/javascript-original.svg" width="30" height="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" />
 
 If you want to contact me, feel free to do so!
 <div>
