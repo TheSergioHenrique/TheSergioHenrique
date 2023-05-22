@@ -2,7 +2,7 @@
 
 💻My name is Sérgio Henrique and I'm a Computer Engineering Student. Nice to meet you, and take your time here!🦾
 
-I'm currently devoloping my learning journey! if you want to contact me, feel free to do so! ;) Would love to talk about anything!
+I'm currently developing my learning journey! if you want to contact me, feel free to do so! ;) Would love to talk about anything!
 <div>
 <a href="https://www.youtube.com/c/DesireBlueSky" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/serjoenrik" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
