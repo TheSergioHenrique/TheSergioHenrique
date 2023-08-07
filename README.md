@@ -3,7 +3,7 @@
 💻My name is Sérgio Henrique and I'm a Computer Engineering Student. Nice to meet you, and take your time here!🦾
 
 I'm currently developing my learning journey! if you want to contact me, feel free to do so! ;) Would love to talk about anything!<br>
-Want to know a little more about me? <a href="https://thesergiohenrique.github.io/" target="_blank">Click here!</a>
+Want to know a little more about me? <a href="https://thesergiohenrique.github.io/" target="_blank">Click here!</a>.
 <div>
 <a href="https://www.youtube.com/c/DesireBlueSky" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href = "mailto:sergio5203@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
