@@ -1,4 +1,4 @@
-## Olá/Hello!😊
+## Olá/Hello!😊 Let's create something new, shall we!?
 
 💻My name is Sérgio Henrique and I'm a Computer Engineering Student. Nice to meet you, and take your time here!🦾
 
