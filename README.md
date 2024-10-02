@@ -1,5 +1,11 @@
 ## Heya!😊 Let's create something new, shall we!?
 
+<br>
+<div align="center">
+  <img alt="Konata Izumi Gif" src="https://media1.tenor.com/m/GKHnTrDdWmkAAAAC/luckystar-animegirl.gif">
+</div>
+<br>
+
 💻My name is Sérgio Henrique and I'm a Computer Engineering Student. Nice to meet you, and take your time here!🦾
 
 *⚙️I'm always learning new things about <b>Java</b>, <b>Rust</b> and <b>C</b>!<br>
