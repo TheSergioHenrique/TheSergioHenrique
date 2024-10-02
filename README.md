@@ -2,7 +2,7 @@
 
 <br>
 <div align="center">
-  <img alt="Konata Izumi Gif" src="https://media1.tenor.com/m/GKHnTrDdWmkAAAAC/luckystar-animegirl.gif">
+  <img alt="Konata Izumi Gif" src="https://media1.tenor.com/m/xGbzcBL9rVYAAAAC/lucky-star-intro-lucky-star.gif">
 </div>
 <br>
 
