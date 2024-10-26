@@ -6,11 +6,12 @@
 </div>
 <br>
 
-💻My name is Sérgio Henrique and I'm a Computer Engineering Student. Nice to meet you, and take your time here!🦾
+💻My name is Sérgio Henrique! I'm a Computer Engineering Student. Nice to meet you, and take your time here!🦾
 
 *⚙️I'm always learning new things about <b>Java</b>, <b>Rust</b>, <b>C</b> and <b>Python</b>!<br>
 *🤖I love to thinker with <b>Arduino</b> and <b>ESP-32</b>!<br>
 *👨‍💻Most of my projects are available here, in my Github!<br>
+*☠️Reading an article on <b>Hackaday</b> daily is one of my hobbies!<br>
 💬if you want to contact me, feel free to do so! ;) Would love to talk about anything!<br>
 ❓Want to know a little more about me? <a href="https://thesergiohenrique.github.io/" target="_blank">Click here!</a>.
 <div>
