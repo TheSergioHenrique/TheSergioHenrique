@@ -2,7 +2,7 @@
 
 <br>
 <div align="center">
-  <img alt="Lucky Star Gif" src="https://media1.tenor.com/m/xGbzcBL9rVYAAAAC/lucky-star-intro-lucky-star.gif">
+  <img alt="Lain GIF" src="https://giffiles.alphacoders.com/995/9950.gif">
 </div>
 <br>
 
