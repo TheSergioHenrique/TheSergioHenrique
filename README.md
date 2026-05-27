@@ -105,19 +105,3 @@ I'm a Computer Engineering student passionate about **Quality Assurance** and **
 </div>
 
 ---
-
-### GitHub & Profile Stats📊
-
-<div align="center">
-
-<a href="https://github.com/TheSergioHenrique">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheSergioHenrique&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</a>
-
-<a href="https://github.com/TheSergioHenrique">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSergioHenrique&layout=compact&langs_count=8&theme=tokyonight"/>
-</a>
-
-</div>
-
----
