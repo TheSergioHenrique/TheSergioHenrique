@@ -10,6 +10,7 @@
 
 ### 💻 My name is Sérgio Henrique!  
 I'm a **Junior QA & Test Automation Engineer** at BIODOC and a Computer Engineering student, passionate about **Quality Assurance** and **Embedded Systems Development**. Nice to meet you! 🦾
+
 ---
 
 - 🧪 Focused on **Test Automation**, **E2E Testing** and **API Quality Assurance**!
