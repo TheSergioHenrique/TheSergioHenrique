@@ -33,7 +33,6 @@ I'm a **Junior QA & Test Automation Engineer** at BIODOC and a Computer Engineer
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman" />
 <img src="https://cdn.simpleicons.org/bruno" height="40" alt="Bruno" />
 <img src="https://cdn.simpleicons.org/testinglibrary" height="40" alt="Testing Library" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="JIRA" />
 </div>
 
 #### Languages 📝
@@ -60,6 +59,12 @@ I'm a **Junior QA & Test Automation Engineer** at BIODOC and a Computer Engineer
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="Jenkins" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" alt="GitHub Actions" />
+</div>
+
+#### Project Management 📋
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="Jira" />
+<img src="https://cdn.simpleicons.org/linear" height="40" alt="Linear" />
 </div>
 
 #### Databases & Systems 💾
