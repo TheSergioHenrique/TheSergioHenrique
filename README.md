@@ -15,9 +15,6 @@ I'm a **Junior QA & Test Automation Engineer** at BIODOC and a Computer Engineer
 
 - 🧪 Focused on **Test Automation**, **E2E Testing** and **API Quality Assurance**!
 - 🌲 Currently writing E2E suites with **Cypress** and **Playwright** (custom commands, request interception, responsive viewports).
-- ⚙️ I'm always learning new things about **Java**, **Rust**, **C**, and **Python**!
-- 🤖 I love to tinker with **Arduino** and **ESP-32**!
-- 👨‍💻 Most of my projects are available here, in my GitHub!  
 - ☕ Brewing a nice cup of coffee before working is one of my favorite hobbies!  
 - 💬 If you want to contact me, feel free to do so! ;) Would love to talk about anything!  
 - ❓ Want to know a little more about me? [**Click here!**](https://thesergiohenrique.github.io/)
